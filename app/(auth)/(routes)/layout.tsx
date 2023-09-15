@@ -1,3 +1,5 @@
+"use client";
+
 const AuthLayout = (
     {children} : {children: React.ReactNode}
 ) => {
